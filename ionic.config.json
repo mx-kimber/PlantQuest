@@ -1,0 +1,8 @@
+{
+  "name": "PlantQuest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "a1b84386"
+}
